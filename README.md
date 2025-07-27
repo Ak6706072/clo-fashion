@@ -9,5 +9,5 @@
 # http://localhost:3000/ this will the url
 # deployed to vercel also  Access url below
 
-https://clo-fashion.vercel.app/
+https://clo-fashion-3gm7.vercel.app/
 
